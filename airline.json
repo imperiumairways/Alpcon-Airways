@@ -440,9 +440,17 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
+                "name": "Alpcon A350 Livery",
+                "texture": [
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/cPMGVwZ/A350.png"
+                 ],
+                 "credits": "QFA124"
+                }
             ],
             "labels": [
-                "Specular shader",
+                "Specular Shader",
                 "Texture"
             ]
         },
