@@ -34,13 +34,13 @@
                 {
                     "name": "Alpcon",
                     "texture": [
+                        "https://geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/9kjHLSs2/737-7.jpg"
                     ],
                     "credits": "Foxytew"
                 }
             ],
             "labels": [
-                "Normal map",
                 "Specular shader",
                 "Texture"
             ]
