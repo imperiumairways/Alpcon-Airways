@@ -28,14 +28,15 @@
                 "Wing texture"
             ]
         },
+
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
                 {
                     "name": "Alpcon",
                     "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/737_700/normal.jpg",
-                        "https://geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "/models/aircraft/premium/737_700/normal.jpg",
+                        "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/9kjHLSs2/737-7.jpg"
                     ],
                     "credits": "Foxytew"
